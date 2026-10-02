@@ -34,4 +34,4 @@ The analysis uses Python and includes:
 
 The complete analysis is available in:
 
-[`ukhouse_ftse_analysis.ipynb`](https://github.com/HenryEA/ds-ml-coursework1/blob/main/ukhouse_ftse_analysis.ipynb)
+[`ukhouse_ftse_analysis.ipynb`](https://github.com/HenryEA/ds-ml-coursework3/blob/main/ukhouse_ftse_analysis.ipynb)
