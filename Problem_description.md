@@ -14,3 +14,7 @@ QUESTION 2: Load the FTSE 100 index (ticker ^FTSE) over the same period as the h
 a)Plot the normalized house-price and FTSE 100 index levels for the UK house price series (from Question 1) and the FTSE 100 index on the same graph, with both series normalized to start at 100 in Jan 1991. Label your axes, legend, and title carefully.
 
 b) Calculate the annualized return of the FTSE 100 over this period. Be explicit about whether you are using the arithmetic mean of annual returns or the geometric (compound annual growth rate), and explain why one is more appropriate than the other for summarizing growth over a multi-year period.
+
+c) Calculate the volatility (standard deviation of monthly returns, annualized) for both the house price series and the FTSE 100. Compare the two. Does the series with the higher average return also carry higher risk?
+
+d) Based on parts (a)–(c), would it have been better to invest in a UK house or the UK stock market over this period? What is missing from this comparison that would be needed to make a genuinely fair "which is the better investment" conclusion?
